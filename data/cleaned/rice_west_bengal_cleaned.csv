@@ -1,0 +1,775 @@
+Year,State Name,District,Area,Production,Yield
+1966,West Bengal,24 Parganas,603.36,628.09,1040.99
+1967,West Bengal,24 Parganas,618.82,682.16,1102.36
+1968,West Bengal,24 Parganas,615.7,703.49,1142.59
+1969,West Bengal,24 Parganas,633.2,672.19,1061.58
+1970,West Bengal,24 Parganas,582.4,475.7,816.79
+1971,West Bengal,24 Parganas,614.2,566.56,922.44
+1972,West Bengal,24 Parganas,615.9,621.12,1008.48
+1973,West Bengal,24 Parganas,623.3,707.08,1134.41
+1974,West Bengal,24 Parganas,644.7,763.56,1184.36
+1975,West Bengal,24 Parganas,661.1,800.43,1210.75
+1976,West Bengal,24 Parganas,634.8,667.45,1051.43
+1977,West Bengal,24 Parganas,652.6,892.15,1367.07
+1978,West Bengal,24 Parganas,613.0,677.82,1105.74
+1979,West Bengal,24 Parganas,622.0,692.99,1114.13
+1980,West Bengal,24 Parganas,639.8,926.42,1447.98
+1981,West Bengal,24 Parganas,704.88,744.16,1055.73
+1982,West Bengal,24 Parganas,657.73,631.43,960.01
+1983,West Bengal,24 Parganas,694.1,1002.32,1444.06
+1984,West Bengal,24 Parganas,649.72,1052.13,1619.36
+1985,West Bengal,24 Parganas,641.0,884.14,1379.31
+1986,West Bengal,24 Parganas,648.75,844.55,1301.81
+1987,West Bengal,24 Parganas,680.6,1200.36,1763.68
+1988,West Bengal,24 Parganas,702.16,1305.96,1859.92
+1989,West Bengal,24 Parganas,705.99,1378.13,1952.05
+1990,West Bengal,24 Parganas,705.36,1156.57,1639.69
+1991,West Bengal,24 Parganas,714.03,1525.2,2136.04
+1992,West Bengal,24 Parganas,719.0,1468.24,2042.06
+1993,West Bengal,24 Parganas,734.04,1454.93,1982.09
+1994,West Bengal,24 Parganas,725.37,1475.89,2034.67
+1995,West Bengal,24 Parganas,717.51,1328.02,1850.87
+1996,West Bengal,24 Parganas,715.98,1469.53,2052.47
+1997,West Bengal,24 Parganas,736.55,1320.68,1793.06
+1998,West Bengal,24 Parganas,783.63,1612.64,2057.91
+1999,West Bengal,24 Parganas,787.21,1763.13,2239.72
+2000,West Bengal,24 Parganas,699.81,1507.89,2154.71
+2001,West Bengal,24 Parganas,761.14,1859.06,2442.47
+2002,West Bengal,24 Parganas,721.17,1692.32,2346.63
+2003,West Bengal,24 Parganas,714.91,1671.21,2337.65
+2004,West Bengal,24 Parganas,662.51,1598.87,2413.35
+2005,West Bengal,24 Parganas,673.08,1562.67,2321.67
+2006,West Bengal,24 Parganas,693.07,1637.07,2362.06
+2007,West Bengal,24 Parganas,666.1,1541.4,2314.07
+2008,West Bengal,24 Parganas,690.5,1656.9,2399.57
+2009,West Bengal,24 Parganas,619.1,1463.8,2364.4
+2010,West Bengal,24 Parganas,595.7,1462.91,2455.78
+2011,West Bengal,24 Parganas,610.43,1500.62,2458.3
+2012,West Bengal,24 Parganas,595.84,1553.5,2607.24
+2013,West Bengal,24 Parganas,612.93,1658.81,2706.36
+2014,West Bengal,24 Parganas,620.48,1702.5,2743.84
+2015,West Bengal,24 Parganas,622.27,1602.26,2574.86
+2016,West Bengal,24 Parganas,582.01,1554.29,2670.56
+2017,West Bengal,24 Parganas,606.14,1690.69,2789.27
+1966,West Bengal,Nadia,204.87,133.21,650.22
+1967,West Bengal,Nadia,208.44,189.69,910.05
+1968,West Bengal,Nadia,233.3,176.28,755.59
+1969,West Bengal,Nadia,215.3,196.53,912.82
+1970,West Bengal,Nadia,206.8,176.83,855.08
+1971,West Bengal,Nadia,155.7,100.0,642.26
+1972,West Bengal,Nadia,216.0,180.63,836.25
+1973,West Bengal,Nadia,204.3,184.75,904.31
+1974,West Bengal,Nadia,240.7,259.25,1077.07
+1975,West Bengal,Nadia,245.7,277.09,1127.76
+1976,West Bengal,Nadia,238.6,209.95,879.92
+1977,West Bengal,Nadia,225.6,302.45,1340.65
+1978,West Bengal,Nadia,171.9,212.69,1237.29
+1979,West Bengal,Nadia,208.7,272.86,1307.43
+1980,West Bengal,Nadia,208.4,280.5,1345.97
+1981,West Bengal,Nadia,222.36,276.61,1243.97
+1982,West Bengal,Nadia,207.48,234.71,1131.24
+1983,West Bengal,Nadia,232.23,359.66,1548.72
+1984,West Bengal,Nadia,211.78,396.7,1873.17
+1985,West Bengal,Nadia,183.23,375.97,2051.9
+1986,West Bengal,Nadia,263.61,508.49,1928.95
+1987,West Bengal,Nadia,271.36,493.19,1817.47
+1988,West Bengal,Nadia,262.29,583.84,2225.93
+1989,West Bengal,Nadia,283.39,659.31,2326.51
+1990,West Bengal,Nadia,284.97,695.11,2439.24
+1991,West Bengal,Nadia,258.82,682.01,2635.07
+1992,West Bengal,Nadia,280.17,673.24,2402.97
+1993,West Bengal,Nadia,291.65,755.91,2591.84
+1994,West Bengal,Nadia,288.25,700.64,2430.67
+1995,West Bengal,Nadia,299.88,721.01,2404.33
+1996,West Bengal,Nadia,289.41,710.45,2454.82
+1997,West Bengal,Nadia,303.99,747.26,2458.17
+1998,West Bengal,Nadia,305.12,843.72,2765.21
+1999,West Bengal,Nadia,319.78,816.81,2554.29
+2000,West Bengal,Nadia,229.19,650.0,2836.07
+2001,West Bengal,Nadia,341.64,958.73,2806.26
+2002,West Bengal,Nadia,341.73,999.06,2923.54
+2003,West Bengal,Nadia,309.68,840.09,2712.77
+2004,West Bengal,Nadia,286.13,763.67,2668.96
+2005,West Bengal,Nadia,265.41,732.44,2759.65
+2006,West Bengal,Nadia,250.31,677.7,2707.44
+2007,West Bengal,Nadia,240.7,683.0,2837.56
+2008,West Bengal,Nadia,277.2,799.5,2884.2
+2009,West Bengal,Nadia,238.8,664.9,2784.34
+2010,West Bengal,Nadia,235.74,650.47,2759.27
+2011,West Bengal,Nadia,252.14,744.49,2952.68
+2012,West Bengal,Nadia,232.86,668.3,2869.96
+2013,West Bengal,Nadia,239.03,734.42,3072.5
+2014,West Bengal,Nadia,242.85,780.86,3215.4
+2015,West Bengal,Nadia,237.13,743.07,3133.6
+2016,West Bengal,Nadia,226.16,733.95,3245.22
+2017,West Bengal,Nadia,242.66,804.3,3314.53
+1966,West Bengal,Murshidabad,296.74,340.05,1145.95
+1967,West Bengal,Murshidabad,294.31,293.79,998.23
+1968,West Bengal,Murshidabad,309.7,311.24,1004.97
+1969,West Bengal,Murshidabad,290.7,279.29,960.75
+1970,West Bengal,Murshidabad,290.1,312.25,1076.35
+1971,West Bengal,Murshidabad,234.5,205.11,874.67
+1972,West Bengal,Murshidabad,293.5,272.08,927.02
+1973,West Bengal,Murshidabad,294.9,329.08,1115.9
+1974,West Bengal,Murshidabad,333.2,399.44,1198.8
+1975,West Bengal,Murshidabad,324.4,405.43,1249.78
+1976,West Bengal,Murshidabad,308.7,333.6,1080.66
+1977,West Bengal,Murshidabad,315.4,453.01,1436.3
+1978,West Bengal,Murshidabad,272.8,348.59,1277.82
+1979,West Bengal,Murshidabad,319.2,466.69,1462.06
+1980,West Bengal,Murshidabad,302.5,421.39,1393.02
+1981,West Bengal,Murshidabad,307.87,313.05,1016.83
+1982,West Bengal,Murshidabad,287.28,265.63,924.64
+1983,West Bengal,Murshidabad,331.67,489.43,1475.65
+1984,West Bengal,Murshidabad,303.12,477.78,1576.21
+1985,West Bengal,Murshidabad,275.03,435.63,1583.94
+1986,West Bengal,Murshidabad,301.84,463.88,1536.84
+1987,West Bengal,Murshidabad,356.82,532.61,1492.66
+1988,West Bengal,Murshidabad,366.26,757.7,2068.75
+1989,West Bengal,Murshidabad,348.68,739.23,2120.08
+1990,West Bengal,Murshidabad,353.95,785.36,2218.84
+1991,West Bengal,Murshidabad,338.84,764.42,2255.99
+1992,West Bengal,Murshidabad,360.16,818.81,2273.46
+1993,West Bengal,Murshidabad,357.22,792.16,2217.57
+1994,West Bengal,Murshidabad,345.82,793.19,2293.65
+1995,West Bengal,Murshidabad,341.22,738.08,2163.06
+1996,West Bengal,Murshidabad,337.03,908.92,2696.85
+1997,West Bengal,Murshidabad,345.29,896.78,2597.18
+1998,West Bengal,Murshidabad,362.98,994.05,2738.58
+1999,West Bengal,Murshidabad,388.08,811.33,2090.63
+2000,West Bengal,Murshidabad,224.12,548.18,2445.92
+2001,West Bengal,Murshidabad,395.06,1085.35,2747.3
+2002,West Bengal,Murshidabad,406.72,1072.8,2637.69
+2003,West Bengal,Murshidabad,403.46,1113.59,2760.1
+2004,West Bengal,Murshidabad,410.7,1194.42,2908.25
+2005,West Bengal,Murshidabad,404.26,1189.59,2942.64
+2006,West Bengal,Murshidabad,395.07,1030.7,2608.9
+2007,West Bengal,Murshidabad,398.4,1142.4,2867.47
+2008,West Bengal,Murshidabad,399.5,1123.7,2812.77
+2009,West Bengal,Murshidabad,373.1,1040.4,2788.53
+2010,West Bengal,Murshidabad,304.18,861.73,2832.96
+2011,West Bengal,Murshidabad,351.02,957.31,2727.22
+2012,West Bengal,Murshidabad,352.39,973.7,2763.13
+2013,West Bengal,Murshidabad,350.73,1116.7,3183.93
+2014,West Bengal,Murshidabad,367.46,1190.49,3239.78
+2015,West Bengal,Murshidabad,383.0,1257.25,3282.64
+2016,West Bengal,Murshidabad,375.29,1235.66,3292.58
+2017,West Bengal,Murshidabad,367.54,1178.19,3205.58
+1966,West Bengal,Burdwan,436.48,597.28,1368.4
+1967,West Bengal,Burdwan,458.82,625.65,1363.61
+1968,West Bengal,Burdwan,472.8,687.22,1453.51
+1969,West Bengal,Burdwan,476.1,629.26,1321.7
+1970,West Bengal,Burdwan,463.2,616.88,1331.78
+1971,West Bengal,Burdwan,499.8,616.16,1232.81
+1972,West Bengal,Burdwan,496.0,709.42,1430.28
+1973,West Bengal,Burdwan,526.2,664.17,1262.2
+1974,West Bengal,Burdwan,535.4,806.35,1506.07
+1975,West Bengal,Burdwan,539.2,823.46,1527.19
+1976,West Bengal,Burdwan,487.7,711.36,1458.6
+1977,West Bengal,Burdwan,540.5,946.88,1751.86
+1978,West Bengal,Burdwan,544.7,845.93,1553.02
+1979,West Bengal,Burdwan,456.0,809.2,1774.56
+1980,West Bengal,Burdwan,548.0,996.76,1818.91
+1981,West Bengal,Burdwan,467.98,845.16,1805.97
+1982,West Bengal,Burdwan,436.67,717.13,1642.27
+1983,West Bengal,Burdwan,536.71,1078.84,2010.1
+1984,West Bengal,Burdwan,545.77,1059.46,1941.22
+1985,West Bengal,Burdwan,538.88,1013.19,1880.18
+1986,West Bengal,Burdwan,523.97,1191.82,2274.6
+1987,West Bengal,Burdwan,563.45,1241.1,2202.68
+1988,West Bengal,Burdwan,542.18,1406.8,2594.71
+1989,West Bengal,Burdwan,545.79,1376.19,2521.46
+1990,West Bengal,Burdwan,560.6,1420.41,2533.73
+1991,West Bengal,Burdwan,560.36,1532.59,2735.01
+1992,West Bengal,Burdwan,543.6,1406.33,2587.07
+1993,West Bengal,Burdwan,605.75,1641.63,2710.08
+1994,West Bengal,Burdwan,605.49,1694.36,2798.33
+1995,West Bengal,Burdwan,615.45,1668.48,2710.99
+1996,West Bengal,Burdwan,626.24,1741.45,2780.8
+1997,West Bengal,Burdwan,653.56,1929.34,2952.05
+1998,West Bengal,Burdwan,700.72,2145.29,3061.55
+1999,West Bengal,Burdwan,678.37,1859.06,2740.48
+2000,West Bengal,Burdwan,582.65,1571.4,2696.99
+2001,West Bengal,Burdwan,660.09,1930.62,2924.78
+2002,West Bengal,Burdwan,647.48,1931.37,2982.9
+2003,West Bengal,Burdwan,655.53,2008.06,3063.26
+2004,West Bengal,Burdwan,634.17,1892.93,2984.89
+2005,West Bengal,Burdwan,639.01,1968.49,3080.53
+2006,West Bengal,Burdwan,642.81,1966.99,3059.99
+2007,West Bengal,Burdwan,635.8,1858.6,2923.25
+2008,West Bengal,Burdwan,666.5,1876.2,2815.0
+2009,West Bengal,Burdwan,672.5,2051.2,3050.11
+2010,West Bengal,Burdwan,562.86,1665.94,2959.78
+2011,West Bengal,Burdwan,592.8,1749.32,2950.94
+2012,West Bengal,Burdwan,593.42,1922.46,3239.63
+2013,West Bengal,Burdwan,604.19,2016.62,3337.72
+2014,West Bengal,Burdwan,583.28,1896.03,3250.63
+2015,West Bengal,Burdwan,578.47,1949.43,3369.98
+2016,West Bengal,Burdwan,493.44,1514.45,3069.16
+2017,West Bengal,Burdwan,520.61,1597.43,3068.36
+1966,West Bengal,Birbhum,319.92,475.36,1485.87
+1967,West Bengal,Birbhum,331.78,490.78,1479.23
+1968,West Bengal,Birbhum,320.9,491.75,1532.41
+1969,West Bengal,Birbhum,332.7,414.97,1247.28
+1970,West Bengal,Birbhum,324.1,459.21,1416.88
+1971,West Bengal,Birbhum,334.2,381.03,1140.13
+1972,West Bengal,Birbhum,321.6,397.26,1235.26
+1973,West Bengal,Birbhum,343.4,452.24,1316.95
+1974,West Bengal,Birbhum,350.7,494.33,1409.55
+1975,West Bengal,Birbhum,346.3,501.95,1449.47
+1976,West Bengal,Birbhum,322.7,424.3,1314.84
+1977,West Bengal,Birbhum,359.7,637.41,1772.06
+1978,West Bengal,Birbhum,350.7,493.95,1408.47
+1979,West Bengal,Birbhum,338.1,538.74,1593.43
+1980,West Bengal,Birbhum,357.4,585.67,1638.7
+1981,West Bengal,Birbhum,330.18,380.13,1151.28
+1982,West Bengal,Birbhum,308.1,322.55,1046.9
+1983,West Bengal,Birbhum,344.47,619.8,1799.29
+1984,West Bengal,Birbhum,340.42,619.58,1820.05
+1985,West Bengal,Birbhum,335.92,578.22,1721.3
+1986,West Bengal,Birbhum,309.83,583.35,1882.81
+1987,West Bengal,Birbhum,346.73,735.36,2120.84
+1988,West Bengal,Birbhum,353.48,870.61,2462.97
+1989,West Bengal,Birbhum,351.58,807.68,2297.29
+1990,West Bengal,Birbhum,376.73,813.09,2158.28
+1991,West Bengal,Birbhum,335.23,768.48,2292.4
+1992,West Bengal,Birbhum,335.57,783.99,2336.29
+1993,West Bengal,Birbhum,371.2,832.45,2242.59
+1994,West Bengal,Birbhum,352.52,798.97,2266.45
+1995,West Bengal,Birbhum,389.43,822.96,2113.24
+1996,West Bengal,Birbhum,350.46,858.3,2449.07
+1997,West Bengal,Birbhum,368.48,1020.06,2768.29
+1998,West Bengal,Birbhum,399.31,1187.79,2974.61
+1999,West Bengal,Birbhum,394.11,1042.5,2645.2
+2000,West Bengal,Birbhum,318.19,796.5,2503.22
+2001,West Bengal,Birbhum,394.13,1157.44,2936.7
+2002,West Bengal,Birbhum,401.45,1146.55,2856.02
+2003,West Bengal,Birbhum,376.29,1110.36,2950.81
+2004,West Bengal,Birbhum,387.89,1088.0,2804.92
+2005,West Bengal,Birbhum,368.55,1116.34,3029.01
+2006,West Bengal,Birbhum,383.41,1199.44,3128.35
+2007,West Bengal,Birbhum,394.0,1220.7,3098.22
+2008,West Bengal,Birbhum,393.9,1212.4,3077.94
+2009,West Bengal,Birbhum,357.6,960.5,2685.96
+2010,West Bengal,Birbhum,249.03,747.95,3003.45
+2011,West Bengal,Birbhum,386.88,1126.8,2912.53
+2012,West Bengal,Birbhum,372.09,1084.23,2913.89
+2013,West Bengal,Birbhum,384.61,1274.1,3312.71
+2014,West Bengal,Birbhum,384.73,1261.88,3279.91
+2015,West Bengal,Birbhum,399.51,1340.67,3355.79
+2016,West Bengal,Birbhum,401.63,1309.02,3259.3
+2017,West Bengal,Birbhum,423.81,1376.11,3246.97
+1966,West Bengal,Bankura,304.63,272.82,895.58
+1967,West Bengal,Bankura,367.36,414.87,1129.33
+1968,West Bengal,Bankura,359.5,458.82,1276.27
+1969,West Bengal,Bankura,382.7,467.09,1220.51
+1970,West Bengal,Bankura,367.7,465.39,1265.68
+1971,West Bengal,Bankura,379.5,462.39,1218.42
+1972,West Bengal,Bankura,380.8,442.62,1162.34
+1973,West Bengal,Bankura,372.0,402.48,1081.94
+1974,West Bengal,Bankura,374.6,492.47,1314.66
+1975,West Bengal,Bankura,373.8,478.64,1280.47
+1976,West Bengal,Bankura,357.4,411.21,1150.56
+1977,West Bengal,Bankura,389.2,605.25,1555.11
+1978,West Bengal,Bankura,379.4,511.58,1348.39
+1979,West Bengal,Bankura,325.1,342.85,1054.6
+1980,West Bengal,Bankura,381.6,594.15,1557.0
+1981,West Bengal,Bankura,342.02,341.8,999.36
+1982,West Bengal,Bankura,319.14,290.02,908.75
+1983,West Bengal,Bankura,359.29,586.05,1631.13
+1984,West Bengal,Bankura,375.67,588.91,1567.63
+1985,West Bengal,Bankura,380.35,679.84,1787.41
+1986,West Bengal,Bankura,360.51,625.32,1734.54
+1987,West Bengal,Bankura,365.49,694.87,1901.2
+1988,West Bengal,Bankura,386.69,779.19,2015.02
+1989,West Bengal,Bankura,407.13,831.38,2042.05
+1990,West Bengal,Bankura,434.78,843.79,1940.73
+1991,West Bengal,Bankura,413.93,949.79,2294.57
+1992,West Bengal,Bankura,414.69,877.06,2114.98
+1993,West Bengal,Bankura,418.51,912.64,2180.69
+1994,West Bengal,Bankura,420.48,975.47,2319.9
+1995,West Bengal,Bankura,437.47,1057.08,2416.35
+1996,West Bengal,Bankura,421.38,1038.72,2465.04
+1997,West Bengal,Bankura,437.28,1197.35,2738.18
+1998,West Bengal,Bankura,386.01,928.98,2406.62
+1999,West Bengal,Bankura,412.12,997.06,2419.34
+2000,West Bengal,Bankura,395.57,993.41,2511.34
+2001,West Bengal,Bankura,436.47,1222.48,2800.83
+2002,West Bengal,Bankura,320.42,929.51,2900.91
+2003,West Bengal,Bankura,320.48,866.98,2705.25
+2004,West Bengal,Bankura,346.83,958.49,2763.57
+2005,West Bengal,Bankura,386.94,1013.45,2619.14
+2006,West Bengal,Bankura,406.9,1138.01,2796.78
+2007,West Bengal,Bankura,416.8,1173.6,2815.74
+2008,West Bengal,Bankura,371.1,1025.8,2764.21
+2009,West Bengal,Bankura,377.3,1004.9,2663.4
+2010,West Bengal,Bankura,198.02,507.49,2562.82
+2011,West Bengal,Bankura,376.99,1119.51,2969.6
+2012,West Bengal,Bankura,376.29,1033.74,2747.19
+2013,West Bengal,Bankura,377.61,1045.36,2768.36
+2014,West Bengal,Bankura,356.09,984.16,2763.8
+2015,West Bengal,Bankura,360.61,990.64,2747.12
+2016,West Bengal,Bankura,376.63,1058.24,2809.78
+2017,West Bengal,Bankura,384.61,1081.48,2811.87
+1966,West Bengal,Hooghly,185.95,168.41,905.67
+1967,West Bengal,Hooghly,202.93,231.55,1141.03
+1968,West Bengal,Hooghly,212.9,298.68,1402.91
+1969,West Bengal,Hooghly,208.6,281.74,1350.62
+1970,West Bengal,Hooghly,198.5,257.87,1299.09
+1971,West Bengal,Hooghly,211.0,274.6,1301.42
+1972,West Bengal,Hooghly,226.7,345.36,1523.42
+1973,West Bengal,Hooghly,249.6,358.47,1436.18
+1974,West Bengal,Hooghly,251.9,400.21,1588.77
+1975,West Bengal,Hooghly,250.8,404.47,1612.72
+1976,West Bengal,Hooghly,228.6,326.93,1430.14
+1977,West Bengal,Hooghly,238.6,432.73,1813.62
+1978,West Bengal,Hooghly,222.4,346.68,1558.81
+1979,West Bengal,Hooghly,215.4,339.05,1574.05
+1980,West Bengal,Hooghly,254.0,510.82,2011.1
+1981,West Bengal,Hooghly,229.33,371.06,1618.02
+1982,West Bengal,Hooghly,213.99,314.85,1471.33
+1983,West Bengal,Hooghly,259.14,475.21,1833.8
+1984,West Bengal,Hooghly,223.21,472.88,2118.54
+1985,West Bengal,Hooghly,242.48,479.15,1976.04
+1986,West Bengal,Hooghly,230.1,458.6,1993.05
+1987,West Bengal,Hooghly,256.64,508.95,1983.13
+1988,West Bengal,Hooghly,262.58,584.78,2227.05
+1989,West Bengal,Hooghly,255.68,565.28,2210.89
+1990,West Bengal,Hooghly,275.3,610.69,2218.27
+1991,West Bengal,Hooghly,271.76,689.13,2535.8
+1992,West Bengal,Hooghly,262.11,601.13,2293.43
+1993,West Bengal,Hooghly,284.14,699.6,2462.17
+1994,West Bengal,Hooghly,287.65,750.38,2608.66
+1995,West Bengal,Hooghly,301.45,688.8,2284.96
+1996,West Bengal,Hooghly,259.36,648.6,2500.77
+1997,West Bengal,Hooghly,292.11,773.11,2646.64
+1998,West Bengal,Hooghly,290.93,745.15,2561.27
+1999,West Bengal,Hooghly,311.84,766.88,2459.21
+2000,West Bengal,Hooghly,199.3,503.7,2527.35
+2001,West Bengal,Hooghly,311.06,847.68,2725.13
+2002,West Bengal,Hooghly,304.73,778.91,2556.07
+2003,West Bengal,Hooghly,298.22,793.21,2659.81
+2004,West Bengal,Hooghly,304.04,857.57,2820.58
+2005,West Bengal,Hooghly,310.32,849.95,2738.95
+2006,West Bengal,Hooghly,299.19,846.82,2830.38
+2007,West Bengal,Hooghly,301.8,845.1,2800.2
+2008,West Bengal,Hooghly,305.7,876.3,2866.54
+2009,West Bengal,Hooghly,299.9,861.3,2871.96
+2010,West Bengal,Hooghly,292.37,904.16,3092.52
+2011,West Bengal,Hooghly,277.2,806.84,2910.68
+2012,West Bengal,Hooghly,273.45,793.04,2900.13
+2013,West Bengal,Hooghly,286.05,807.73,2823.74
+2014,West Bengal,Hooghly,276.03,860.05,3115.78
+2015,West Bengal,Hooghly,277.62,871.28,3138.39
+2016,West Bengal,Hooghly,266.97,837.1,3135.59
+2017,West Bengal,Hooghly,260.37,839.67,3224.91
+1966,West Bengal,Howrah,87.65,70.34,802.51
+1967,West Bengal,Howrah,88.64,71.99,812.16
+1968,West Bengal,Howrah,74.8,66.31,886.5
+1969,West Bengal,Howrah,92.3,95.69,1036.73
+1970,West Bengal,Howrah,73.3,54.34,741.34
+1971,West Bengal,Howrah,73.9,51.49,696.75
+1972,West Bengal,Howrah,91.0,92.87,1020.55
+1973,West Bengal,Howrah,87.6,83.23,950.11
+1974,West Bengal,Howrah,94.8,100.42,1059.28
+1975,West Bengal,Howrah,94.6,110.24,1165.33
+1976,West Bengal,Howrah,86.5,93.41,1079.88
+1977,West Bengal,Howrah,91.5,124.9,1365.03
+1978,West Bengal,Howrah,48.8,59.05,1210.04
+1979,West Bengal,Howrah,84.1,103.75,1233.65
+1980,West Bengal,Howrah,90.4,151.38,1674.56
+1981,West Bengal,Howrah,94.82,132.86,1401.18
+1982,West Bengal,Howrah,88.48,112.73,1274.07
+1983,West Bengal,Howrah,108.99,124.48,1142.12
+1984,West Bengal,Howrah,118.21,158.12,1337.62
+1985,West Bengal,Howrah,103.41,189.52,1832.7
+1986,West Bengal,Howrah,115.77,191.78,1656.56
+1987,West Bengal,Howrah,114.35,220.28,1926.37
+1988,West Bengal,Howrah,118.06,247.35,2095.12
+1989,West Bengal,Howrah,114.19,229.26,2007.71
+1990,West Bengal,Howrah,133.09,232.45,1746.56
+1991,West Bengal,Howrah,133.24,325.85,2445.59
+1992,West Bengal,Howrah,133.34,270.61,2029.47
+1993,West Bengal,Howrah,140.67,259.87,1847.37
+1994,West Bengal,Howrah,118.85,218.22,1836.1
+1995,West Bengal,Howrah,120.34,179.95,1495.35
+1996,West Bengal,Howrah,116.19,215.74,1856.79
+1997,West Bengal,Howrah,124.84,242.62,1943.45
+1998,West Bengal,Howrah,124.14,235.27,1895.2
+1999,West Bengal,Howrah,134.1,295.77,2205.59
+2000,West Bengal,Howrah,113.27,224.2,1979.34
+2001,West Bengal,Howrah,122.65,287.51,2344.15
+2002,West Bengal,Howrah,131.24,281.15,2142.26
+2003,West Bengal,Howrah,141.42,332.46,2350.87
+2004,West Bengal,Howrah,132.98,305.44,2296.89
+2005,West Bengal,Howrah,125.55,286.01,2278.06
+2006,West Bengal,Howrah,116.84,243.55,2084.47
+2007,West Bengal,Howrah,117.8,259.2,2200.34
+2008,West Bengal,Howrah,115.3,207.0,1795.32
+2009,West Bengal,Howrah,114.0,191.2,1677.19
+2010,West Bengal,Howrah,115.47,304.76,2639.3
+2011,West Bengal,Howrah,107.05,225.33,2104.9
+2012,West Bengal,Howrah,111.21,286.83,2579.17
+2013,West Bengal,Howrah,108.64,275.13,2532.49
+2014,West Bengal,Howrah,117.36,320.39,2729.98
+2015,West Bengal,Howrah,112.82,222.22,1969.69
+2016,West Bengal,Howrah,115.79,299.34,2585.08
+2017,West Bengal,Howrah,110.38,300.67,2724.04
+1966,West Bengal,Jalpaiguri,229.68,247.5,1077.59
+1967,West Bengal,Jalpaiguri,209.47,164.91,787.27
+1968,West Bengal,Jalpaiguri,246.0,248.65,1010.77
+1969,West Bengal,Jalpaiguri,252.0,262.36,1041.11
+1970,West Bengal,Jalpaiguri,258.7,260.52,1007.04
+1971,West Bengal,Jalpaiguri,259.4,275.07,1060.41
+1972,West Bengal,Jalpaiguri,255.8,245.35,959.15
+1973,West Bengal,Jalpaiguri,253.3,228.35,901.5
+1974,West Bengal,Jalpaiguri,288.7,278.33,964.08
+1975,West Bengal,Jalpaiguri,305.0,312.29,1023.9
+1976,West Bengal,Jalpaiguri,297.0,276.83,932.09
+1977,West Bengal,Jalpaiguri,298.9,285.59,955.47
+1978,West Bengal,Jalpaiguri,265.1,221.63,836.02
+1979,West Bengal,Jalpaiguri,257.8,204.78,794.34
+1980,West Bengal,Jalpaiguri,264.7,294.53,1112.69
+1981,West Bengal,Jalpaiguri,269.85,214.02,793.11
+1982,West Bengal,Jalpaiguri,251.8,181.6,721.21
+1983,West Bengal,Jalpaiguri,272.09,277.75,1020.8
+1984,West Bengal,Jalpaiguri,279.83,282.34,1008.97
+1985,West Bengal,Jalpaiguri,254.0,260.97,1027.44
+1986,West Bengal,Jalpaiguri,279.2,244.66,876.29
+1987,West Bengal,Jalpaiguri,261.18,293.81,1124.93
+1988,West Bengal,Jalpaiguri,270.86,280.18,1034.41
+1989,West Bengal,Jalpaiguri,268.89,316.86,1178.4
+1990,West Bengal,Jalpaiguri,275.39,249.71,906.75
+1991,West Bengal,Jalpaiguri,262.36,361.72,1378.72
+1992,West Bengal,Jalpaiguri,264.02,345.49,1308.58
+1993,West Bengal,Jalpaiguri,253.04,321.97,1272.41
+1994,West Bengal,Jalpaiguri,241.52,271.3,1123.3
+1995,West Bengal,Jalpaiguri,252.39,311.86,1235.63
+1996,West Bengal,Jalpaiguri,248.04,277.16,1117.4
+1997,West Bengal,Jalpaiguri,244.85,310.47,1268.0
+1998,West Bengal,Jalpaiguri,246.23,286.15,1162.12
+1999,West Bengal,Jalpaiguri,257.8,379.17,1470.79
+2000,West Bengal,Jalpaiguri,260.85,384.14,1472.65
+2001,West Bengal,Jalpaiguri,256.13,409.99,1600.71
+2002,West Bengal,Jalpaiguri,275.18,432.45,1571.52
+2003,West Bengal,Jalpaiguri,240.23,397.58,1655.0
+2004,West Bengal,Jalpaiguri,250.08,366.12,1464.01
+2005,West Bengal,Jalpaiguri,248.53,394.62,1587.82
+2006,West Bengal,Jalpaiguri,229.68,418.96,1824.1
+2007,West Bengal,Jalpaiguri,236.1,372.4,1577.3
+2008,West Bengal,Jalpaiguri,235.5,391.2,1661.15
+2009,West Bengal,Jalpaiguri,227.5,435.3,1913.41
+2010,West Bengal,Jalpaiguri,224.11,493.74,2203.11
+2011,West Bengal,Jalpaiguri,224.62,469.65,2090.86
+2012,West Bengal,Jalpaiguri,228.12,492.88,2160.62
+2013,West Bengal,Jalpaiguri,229.65,523.15,2278.03
+2014,West Bengal,Jalpaiguri,230.54,561.85,2437.1
+2015,West Bengal,Jalpaiguri,220.26,556.42,2526.2
+2016,West Bengal,Jalpaiguri,210.97,483.41,2291.3
+2017,West Bengal,Jalpaiguri,214.23,514.26,2400.54
+1966,West Bengal,Darjeeling,37.5,42.19,1125.07
+1967,West Bengal,Darjeeling,34.0,28.19,829.12
+1968,West Bengal,Darjeeling,37.4,41.2,1101.6
+1969,West Bengal,Darjeeling,40.2,42.26,1051.24
+1970,West Bengal,Darjeeling,41.9,46.25,1103.82
+1971,West Bengal,Darjeeling,42.1,64.76,1538.24
+1972,West Bengal,Darjeeling,41.1,36.04,876.89
+1973,West Bengal,Darjeeling,42.3,45.39,1073.05
+1974,West Bengal,Darjeeling,46.0,51.8,1126.09
+1975,West Bengal,Darjeeling,45.3,48.41,1068.65
+1976,West Bengal,Darjeeling,44.9,42.42,944.77
+1977,West Bengal,Darjeeling,44.7,46.81,1047.2
+1978,West Bengal,Darjeeling,36.8,30.79,836.68
+1979,West Bengal,Darjeeling,42.1,34.79,826.37
+1980,West Bengal,Darjeeling,43.1,47.53,1102.78
+1981,West Bengal,Darjeeling,43.8,43.76,999.09
+1982,West Bengal,Darjeeling,40.87,37.13,908.49
+1983,West Bengal,Darjeeling,44.32,59.81,1349.5
+1984,West Bengal,Darjeeling,43.95,54.42,1238.23
+1985,West Bengal,Darjeeling,41.18,48.91,1187.71
+1986,West Bengal,Darjeeling,49.27,60.54,1228.74
+1987,West Bengal,Darjeeling,47.94,46.14,962.45
+1988,West Bengal,Darjeeling,52.78,55.31,1047.93
+1989,West Bengal,Darjeeling,62.03,74.29,1197.65
+1990,West Bengal,Darjeeling,55.34,64.64,1168.05
+1991,West Bengal,Darjeeling,47.78,72.3,1513.19
+1992,West Bengal,Darjeeling,45.16,62.6,1386.18
+1993,West Bengal,Darjeeling,43.89,69.8,1590.34
+1994,West Bengal,Darjeeling,45.01,66.09,1468.34
+1995,West Bengal,Darjeeling,39.61,50.45,1273.67
+1996,West Bengal,Darjeeling,36.67,38.75,1056.72
+1997,West Bengal,Darjeeling,35.55,39.54,1112.24
+1998,West Bengal,Darjeeling,36.44,39.33,1079.31
+1999,West Bengal,Darjeeling,35.66,51.45,1442.79
+2000,West Bengal,Darjeeling,34.14,52.89,1549.21
+2001,West Bengal,Darjeeling,36.01,59.23,1644.82
+2002,West Bengal,Darjeeling,36.65,60.6,1653.48
+2003,West Bengal,Darjeeling,35.34,64.83,1834.47
+2004,West Bengal,Darjeeling,34.95,47.91,1370.82
+2005,West Bengal,Darjeeling,34.52,58.63,1698.44
+2006,West Bengal,Darjeeling,31.43,58.65,1866.05
+2007,West Bengal,Darjeeling,32.2,59.5,1847.83
+2008,West Bengal,Darjeeling,32.5,68.7,2113.85
+2009,West Bengal,Darjeeling,32.3,75.4,2334.37
+2010,West Bengal,Darjeeling,32.26,77.8,2411.66
+2011,West Bengal,Darjeeling,32.29,75.84,2348.71
+2012,West Bengal,Darjeeling,32.42,67.56,2083.9
+2013,West Bengal,Darjeeling,32.16,72.3,2248.13
+2014,West Bengal,Darjeeling,32.56,68.54,2105.04
+2015,West Bengal,Darjeeling,32.59,76.95,2361.15
+2016,West Bengal,Darjeeling,27.3,60.2,2204.81
+2017,West Bengal,Darjeeling,28.27,65.58,2319.88
+1966,West Bengal,Malda,190.26,131.75,692.47
+1967,West Bengal,Malda,208.82,156.6,749.93
+1968,West Bengal,Malda,201.9,192.05,951.21
+1969,West Bengal,Malda,212.0,173.16,816.79
+1970,West Bengal,Malda,211.0,203.45,964.22
+1971,West Bengal,Malda,196.9,163.69,831.34
+1972,West Bengal,Malda,183.8,160.16,871.38
+1973,West Bengal,Malda,237.1,206.34,870.27
+1974,West Bengal,Malda,243.1,240.28,988.4
+1975,West Bengal,Malda,233.2,228.05,977.92
+1976,West Bengal,Malda,239.2,239.5,1001.25
+1977,West Bengal,Malda,254.6,301.15,1182.84
+1978,West Bengal,Malda,234.0,268.0,1145.3
+1979,West Bengal,Malda,207.0,260.68,1259.32
+1980,West Bengal,Malda,202.9,287.53,1417.1
+1981,West Bengal,Malda,231.54,307.45,1327.85
+1982,West Bengal,Malda,216.05,260.88,1207.5
+1983,West Bengal,Malda,221.64,317.23,1431.28
+1984,West Bengal,Malda,213.91,330.15,1543.41
+1985,West Bengal,Malda,201.13,330.31,1642.27
+1986,West Bengal,Malda,250.07,415.8,1662.73
+1987,West Bengal,Malda,251.37,343.86,1367.94
+1988,West Bengal,Malda,257.4,404.22,1570.4
+1989,West Bengal,Malda,246.09,441.16,1792.68
+1990,West Bengal,Malda,263.82,492.32,1866.12
+1991,West Bengal,Malda,248.89,455.83,1831.45
+1992,West Bengal,Malda,236.77,435.0,1837.23
+1993,West Bengal,Malda,242.34,551.94,2277.54
+1994,West Bengal,Malda,240.97,514.67,2135.83
+1995,West Bengal,Malda,270.17,561.43,2078.06
+1996,West Bengal,Malda,230.98,553.12,2394.67
+1997,West Bengal,Malda,231.77,559.54,2414.2
+1998,West Bengal,Malda,227.47,488.46,2147.36
+1999,West Bengal,Malda,230.66,519.34,2251.54
+2000,West Bengal,Malda,221.66,523.07,2359.79
+2001,West Bengal,Malda,213.35,536.16,2513.05
+2002,West Bengal,Malda,214.55,545.98,2544.77
+2003,West Bengal,Malda,208.62,572.59,2744.66
+2004,West Bengal,Malda,217.29,661.56,3044.59
+2005,West Bengal,Malda,218.61,636.12,2909.84
+2006,West Bengal,Malda,154.26,470.63,3050.89
+2007,West Bengal,Malda,147.3,480.4,3261.37
+2008,West Bengal,Malda,221.7,656.8,2962.56
+2009,West Bengal,Malda,216.8,614.5,2834.41
+2010,West Bengal,Malda,200.76,630.48,3140.47
+2011,West Bengal,Malda,204.93,611.97,2986.24
+2012,West Bengal,Malda,207.59,644.57,3105.01
+2013,West Bengal,Malda,198.77,704.37,3543.64
+2014,West Bengal,Malda,204.19,707.57,3465.25
+2015,West Bengal,Malda,206.35,705.36,3418.27
+2016,West Bengal,Malda,197.17,670.65,3401.3
+2017,West Bengal,Malda,213.93,629.95,2944.6
+1966,West Bengal,Cooch Behar,252.83,220.24,871.1
+1967,West Bengal,Cooch Behar,250.73,216.92,865.15
+1968,West Bengal,Cooch Behar,248.7,217.48,874.47
+1969,West Bengal,Cooch Behar,261.3,242.67,928.7
+1970,West Bengal,Cooch Behar,261.5,244.46,934.84
+1971,West Bengal,Cooch Behar,268.7,243.43,905.95
+1972,West Bengal,Cooch Behar,258.1,227.79,882.56
+1973,West Bengal,Cooch Behar,264.7,224.81,849.3
+1974,West Bengal,Cooch Behar,295.9,262.82,888.21
+1975,West Bengal,Cooch Behar,305.5,270.24,884.58
+1976,West Bengal,Cooch Behar,302.3,245.34,811.58
+1977,West Bengal,Cooch Behar,306.0,257.78,842.42
+1978,West Bengal,Cooch Behar,282.1,213.4,756.47
+1979,West Bengal,Cooch Behar,260.1,187.34,720.26
+1980,West Bengal,Cooch Behar,272.7,277.74,1018.48
+1981,West Bengal,Cooch Behar,305.9,284.98,931.61
+1982,West Bengal,Cooch Behar,285.43,241.81,847.18
+1983,West Bengal,Cooch Behar,286.56,310.66,1084.1
+1984,West Bengal,Cooch Behar,297.0,313.76,1056.43
+1985,West Bengal,Cooch Behar,279.28,291.24,1042.82
+1986,West Bengal,Cooch Behar,324.2,335.09,1033.59
+1987,West Bengal,Cooch Behar,274.37,313.77,1143.6
+1988,West Bengal,Cooch Behar,338.56,403.39,1191.49
+1989,West Bengal,Cooch Behar,320.07,422.63,1320.43
+1990,West Bengal,Cooch Behar,305.65,401.84,1314.71
+1991,West Bengal,Cooch Behar,314.45,398.17,1266.24
+1992,West Bengal,Cooch Behar,315.35,405.03,1284.38
+1993,West Bengal,Cooch Behar,305.09,421.21,1380.61
+1994,West Bengal,Cooch Behar,274.04,340.48,1242.45
+1995,West Bengal,Cooch Behar,301.33,383.42,1272.43
+1996,West Bengal,Cooch Behar,293.82,400.71,1363.79
+1997,West Bengal,Cooch Behar,273.68,369.09,1348.62
+1998,West Bengal,Cooch Behar,282.4,368.87,1306.2
+1999,West Bengal,Cooch Behar,292.25,439.77,1504.77
+2000,West Bengal,Cooch Behar,291.9,517.28,1772.11
+2001,West Bengal,Cooch Behar,279.19,466.68,1671.55
+2002,West Bengal,Cooch Behar,273.13,457.64,1675.54
+2003,West Bengal,Cooch Behar,276.23,515.42,1865.91
+2004,West Bengal,Cooch Behar,269.31,473.15,1756.9
+2005,West Bengal,Cooch Behar,280.49,545.58,1945.1
+2006,West Bengal,Cooch Behar,239.45,445.79,1861.72
+2007,West Bengal,Cooch Behar,293.5,518.8,1767.63
+2008,West Bengal,Cooch Behar,309.8,500.4,1615.24
+2009,West Bengal,Cooch Behar,274.0,561.0,2047.45
+2010,West Bengal,Cooch Behar,275.29,656.87,2386.1
+2011,West Bengal,Cooch Behar,273.28,600.69,2198.08
+2012,West Bengal,Cooch Behar,277.81,670.26,2412.66
+2013,West Bengal,Cooch Behar,273.13,727.97,2665.29
+2014,West Bengal,Cooch Behar,277.39,720.1,2595.98
+2015,West Bengal,Cooch Behar,270.15,722.23,2673.44
+2016,West Bengal,Cooch Behar,270.75,705.71,2606.44
+2017,West Bengal,Cooch Behar,273.05,745.2,2729.15
+1966,West Bengal,Purulia,238.2,189.7,796.39
+1967,West Bengal,Purulia,257.37,290.17,1127.44
+1968,West Bengal,Purulia,258.3,249.25,964.96
+1969,West Bengal,Purulia,261.6,266.29,1017.93
+1970,West Bengal,Purulia,262.5,288.87,1100.46
+1971,West Bengal,Purulia,269.6,347.77,1289.95
+1972,West Bengal,Purulia,259.8,273.73,1053.62
+1973,West Bengal,Purulia,261.0,264.69,1014.14
+1974,West Bengal,Purulia,257.3,299.18,1162.77
+1975,West Bengal,Purulia,262.8,310.02,1179.68
+1976,West Bengal,Purulia,244.5,242.31,991.04
+1977,West Bengal,Purulia,274.8,328.07,1193.85
+1978,West Bengal,Purulia,276.1,324.43,1175.05
+1979,West Bengal,Purulia,220.4,146.91,666.56
+1980,West Bengal,Purulia,251.3,342.63,1363.43
+1981,West Bengal,Purulia,223.83,158.48,708.04
+1982,West Bengal,Purulia,208.86,134.47,643.83
+1983,West Bengal,Purulia,234.84,310.56,1322.43
+1984,West Bengal,Purulia,261.84,369.05,1409.45
+1985,West Bengal,Purulia,248.19,435.85,1756.11
+1986,West Bengal,Purulia,288.47,389.32,1349.6
+1987,West Bengal,Purulia,262.63,422.66,1609.34
+1988,West Bengal,Purulia,257.29,364.57,1416.96
+1989,West Bengal,Purulia,272.01,427.69,1572.33
+1990,West Bengal,Purulia,285.26,372.73,1306.63
+1991,West Bengal,Purulia,291.01,417.89,1436.0
+1992,West Bengal,Purulia,289.02,426.63,1476.13
+1993,West Bengal,Purulia,294.21,440.87,1498.49
+1994,West Bengal,Purulia,296.03,504.37,1703.78
+1995,West Bengal,Purulia,300.5,477.25,1588.19
+1996,West Bengal,Purulia,304.56,483.09,1586.19
+1997,West Bengal,Purulia,322.42,609.31,1889.8
+1998,West Bengal,Purulia,231.79,341.6,1473.75
+1999,West Bengal,Purulia,299.99,547.63,1825.49
+2000,West Bengal,Purulia,262.19,474.98,1811.59
+2001,West Bengal,Purulia,294.72,745.17,2528.4
+2002,West Bengal,Purulia,230.25,486.85,2114.44
+2003,West Bengal,Purulia,294.58,639.72,2171.63
+2004,West Bengal,Purulia,289.66,673.72,2325.9
+2005,West Bengal,Purulia,266.98,528.9,1981.05
+2006,West Bengal,Purulia,280.56,731.4,2606.93
+2007,West Bengal,Purulia,313.7,768.2,2448.84
+2008,West Bengal,Purulia,301.0,744.2,2472.43
+2009,West Bengal,Purulia,265.7,598.8,2253.67
+2010,West Bengal,Purulia,152.9,261.75,1711.9
+2011,West Bengal,Purulia,270.59,732.35,2706.49
+2012,West Bengal,Purulia,289.14,730.73,2527.25
+2013,West Bengal,Purulia,302.88,731.54,2415.28
+2014,West Bengal,Purulia,279.72,599.42,2142.93
+2015,West Bengal,Purulia,272.13,500.44,1838.97
+2016,West Bengal,Purulia,276.82,649.82,2347.45
+2017,West Bengal,Purulia,273.17,751.47,2750.89
+1966,West Bengal,Midnapur,832.99,926.0,1111.66
+1967,West Bengal,Midnapur,785.94,675.7,859.73
+1968,West Bengal,Midnapur,815.2,873.76,1071.84
+1969,West Bengal,Midnapur,884.3,964.63,1090.84
+1970,West Bengal,Midnapur,873.1,881.68,1009.83
+1971,West Bengal,Midnapur,869.2,756.45,870.28
+1972,West Bengal,Midnapur,890.7,972.44,1091.77
+1973,West Bengal,Midnapur,898.7,911.1,1013.8
+1974,West Bengal,Midnapur,903.7,948.99,1050.12
+1975,West Bengal,Midnapur,915.5,1119.68,1223.03
+1976,West Bengal,Midnapur,876.8,942.79,1075.26
+1977,West Bengal,Midnapur,914.5,1142.79,1249.63
+1978,West Bengal,Midnapur,852.2,1036.9,1216.73
+1979,West Bengal,Midnapur,886.6,983.99,1109.85
+1980,West Bengal,Midnapur,904.0,1257.98,1391.57
+1981,West Bengal,Midnapur,964.53,940.76,975.36
+1982,West Bengal,Midnapur,900.01,798.25,886.93
+1983,West Bengal,Midnapur,977.92,1358.16,1388.83
+1984,West Bengal,Midnapur,907.48,1404.91,1548.14
+1985,West Bengal,Midnapur,925.23,1458.32,1576.17
+1986,West Bengal,Midnapur,958.4,1498.82,1563.88
+1987,West Bengal,Midnapur,957.53,1732.24,1809.07
+1988,West Bengal,Midnapur,964.36,1866.32,1935.29
+1989,West Bengal,Midnapur,967.25,1882.49,1946.23
+1990,West Bengal,Midnapur,1024.84,1529.3,1492.23
+1991,West Bengal,Midnapur,1065.48,2259.82,2120.94
+1992,West Bengal,Midnapur,1022.17,2066.27,2021.45
+1993,West Bengal,Midnapur,1066.99,2097.4,1965.72
+1994,West Bengal,Midnapur,1064.96,2283.79,2144.48
+1995,West Bengal,Midnapur,1080.39,2093.21,1937.46
+1996,West Bengal,Midnapur,1089.5,2362.01,2167.98
+1997,West Bengal,Midnapur,1070.91,2302.06,2149.63
+1998,West Bengal,Midnapur,1045.86,2055.88,1965.73
+1999,West Bengal,Midnapur,1106.65,2418.93,2185.81
+2000,West Bengal,Midnapur,1108.55,2584.45,2331.38
+2001,West Bengal,Midnapur,1076.59,2710.75,2517.9
+2002,West Bengal,Midnapur,1044.86,2524.95,2416.54
+2003,West Bengal,Midnapur,1073.68,2516.6,2343.9
+2004,West Bengal,Midnapur,1071.5,2802.2,2615.21
+2005,West Bengal,Midnapur,1068.9,2416.32,2260.57
+2006,West Bengal,Midnapur,1122.84,2844.06,2532.92
+2007,West Bengal,Midnapur,1046.6,2620.7,2504.01
+2008,West Bengal,Midnapur,1125.7,2736.6,2431.02
+2009,West Bengal,Midnapur,1114.7,2794.6,2507.04
+2010,West Bengal,Midnapur,1066.2,2947.41,2764.41
+2011,West Bengal,Midnapur,1055.4,2784.21,2638.06
+2012,West Bengal,Midnapur,1093.5,2940.45,2689.03
+2013,West Bengal,Midnapur,1105.54,2618.92,2368.91
+2014,West Bengal,Midnapur,1154.23,3152.73,2731.46
+2015,West Bengal,Midnapur,1136.11,3215.01,2829.84
+2016,West Bengal,Midnapur,988.33,2852.72,2886.39
+2017,West Bengal,Midnapur,970.95,3001.78,3091.58
+1966,West Bengal,West Dinajpur,425.55,376.46,884.64
+1967,West Bengal,West Dinajpur,399.49,332.8,833.06
+1968,West Bengal,West Dinajpur,429.9,445.31,1035.85
+1969,West Bengal,West Dinajpur,454.0,374.69,825.31
+1970,West Bengal,West Dinajpur,460.5,465.37,1010.58
+1971,West Bengal,West Dinajpur,477.6,456.59,956.01
+1972,West Bengal,West Dinajpur,420.9,333.16,791.54
+1973,West Bengal,West Dinajpur,433.2,394.03,909.58
+1974,West Bengal,West Dinajpur,464.8,425.9,916.31
+1975,West Bengal,West Dinajpur,455.0,381.36,838.15
+1976,West Bengal,West Dinajpur,468.3,440.58,940.81
+1977,West Bengal,West Dinajpur,474.0,473.12,998.14
+1978,West Bengal,West Dinajpur,442.8,394.46,890.83
+1979,West Bengal,West Dinajpur,429.8,388.39,903.65
+1980,West Bengal,West Dinajpur,457.3,486.54,1063.94
+1981,West Bengal,West Dinajpur,471.12,478.32,1015.28
+1982,West Bengal,West Dinajpur,439.61,405.86,923.23
+1983,West Bengal,West Dinajpur,468.67,512.73,1094.01
+1984,West Bengal,West Dinajpur,461.58,512.32,1109.93
+1985,West Bengal,West Dinajpur,429.43,529.66,1233.4
+1986,West Bengal,West Dinajpur,471.94,651.0,1379.41
+1987,West Bengal,West Dinajpur,465.08,492.54,1059.04
+1988,West Bengal,West Dinajpur,487.02,649.61,1333.85
+1989,West Bengal,West Dinajpur,465.58,771.99,1658.13
+1996,West Bengal,West Dinajpur,480.95,930.23,1934.15
+1997,West Bengal,West Dinajpur,459.0,919.38,2003.01
+1998,West Bengal,West Dinajpur,481.07,1043.27,2168.64
+1999,West Bengal,West Dinajpur,501.84,990.85,1974.43
+2000,West Bengal,West Dinajpur,493.95,1095.96,2218.77
+2001,West Bengal,West Dinajpur,490.86,979.83,1996.15
+2002,West Bengal,West Dinajpur,492.53,1049.1,2130.02
+2003,West Bengal,West Dinajpur,507.96,1219.54,2400.86
+2004,West Bengal,West Dinajpur,485.58,1200.86,2473.04
+2005,West Bengal,West Dinajpur,491.79,1211.69,2463.84
+2006,West Bengal,West Dinajpur,441.41,1036.13,2347.32
+2007,West Bengal,West Dinajpur,479.0,1175.5,2454.07
+2008,West Bengal,West Dinajpur,489.8,1161.6,2371.58
+2009,West Bengal,West Dinajpur,446.8,1022.8,2289.17
+2010,West Bengal,West Dinajpur,439.26,1216.16,2768.66
+2011,West Bengal,West Dinajpur,418.08,1105.35,2643.87
+2012,West Bengal,West Dinajpur,408.21,1084.49,2656.7
+2013,West Bengal,West Dinajpur,407.78,1069.76,2623.38
+2014,West Bengal,West Dinajpur,399.61,1120.63,2804.31
+2015,West Bengal,West Dinajpur,414.94,1195.03,2880.01
+2016,West Bengal,West Dinajpur,402.75,1141.76,2834.93
+2017,West Bengal,West Dinajpur,417.97,1082.16,2589.08
