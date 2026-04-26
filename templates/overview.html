@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">Project Overview</span>
+    <h1 class="section-title">Dual-Ledger Framework for Agricultural Transparency</h1>
+    <p class="section-text">
+      This platform combines blockchain auditability with AI anomaly detection to improve trust in
+      crop records, procurement claims, and subsidy-linked workflows.
+    </p>
+  </section>
+
+  <section class="grid-3">
+    <article class="card">
+      <h3 class="section-title">Public Chain</h3>
+      <p class="section-text">Track crop movement, district-level yield, and market pricing metadata.</p>
+    </article>
+    <article class="card">
+      <h3 class="section-title">Private Chain</h3>
+      <p class="section-text">Store sensitive identity and subsidy fields using controlled access policies.</p>
+    </article>
+    <article class="card">
+      <h3 class="section-title">AI Guardrail</h3>
+      <p class="section-text">Predict expected yield and flag suspicious mismatches before financial settlement.</p>
+    </article>
+  </section>
+{% endblock %}

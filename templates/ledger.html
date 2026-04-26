@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">Blockchain Ledger</span>
+    <h1 class="section-title">Immutable Record Explorer</h1>
+    <p class="section-text">Public and private record mapping with verification status for each block.</p>
+  </section>
+
+  <section class="card table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Block</th>
+          <th>Transaction ID</th>
+          <th>District</th>
+          <th>Public Yield</th>
+          <th>Status</th>
+          <th>Block Hash</th>
+        </tr>
+      </thead>
+      <tbody id="ledgerTableBody"></tbody>
+    </table>
+  </section>
+{% endblock %}

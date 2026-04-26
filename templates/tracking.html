@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">Supply Chain Tracking</span>
+    <h1 class="section-title">Live Agricultural Transaction Feed</h1>
+    <p class="section-text">Follow crop movements with AI-calculated fraud risk and blockchain hash references.</p>
+  </section>
+
+  <section class="card table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Transaction</th>
+          <th>District</th>
+          <th>Actual Yield</th>
+          <th>Predicted Yield</th>
+          <th>Fraud Score</th>
+          <th>Risk</th>
+        </tr>
+      </thead>
+      <tbody id="trackingTableBody"></tbody>
+    </table>
+  </section>
+{% endblock %}

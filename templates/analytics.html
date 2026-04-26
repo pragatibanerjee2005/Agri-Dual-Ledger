@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">Analytics Section</span>
+    <h1 class="section-title">Yield Intelligence + Fraud Monitoring</h1>
+    <p class="section-text">Compare real production against AI projections and analyze trend shifts over time.</p>
+  </section>
+
+  <section class="grid-2">
+    <article class="card">
+      <h3 class="section-title">Actual vs AI Predicted Yield</h3>
+      <canvas id="yieldChart"></canvas>
+    </article>
+    <article class="card">
+      <h3 class="section-title">Fraud Flags by Year</h3>
+      <canvas id="fraudChart"></canvas>
+    </article>
+  </section>
+{% endblock %}

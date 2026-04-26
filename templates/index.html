@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="hero">
+    <div class="card">
+      <span class="pill">Startup-ready AgriTech Platform</span>
+      <h1>Dual-Ledger Blockchain + AI Fraud Detection for Modern Agriculture</h1>
+      <p>
+        Build trust from farm to market with tamper-resistant blockchain records, automated fraud
+        scoring, and operational dashboards for farmers, suppliers, and auditors.
+      </p>
+      <div class="button-row">
+        <a class="btn btn-primary" href="/dashboard">Open Dashboard</a>
+        <a class="btn btn-secondary" href="/overview">Explore Project</a>
+      </div>
+    </div>
+    <div class="card">
+      <h2>System Snapshot</h2>
+      <div class="grid-2">
+        <div class="metric"><h3>Total Records</h3><p id="totalRecords">--</p></div>
+        <div class="metric"><h3>Verified Cases</h3><p id="verifiedCases">--</p></div>
+        <div class="metric"><h3>Fraud Cases</h3><p id="fraudCases">--</p></div>
+        <div class="metric"><h3>Fraud Rate</h3><p id="fraudRate">--</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="grid-3">
+    <article class="card">
+      <h3 class="section-title">About the Project</h3>
+      <p class="section-text">A dual-ledger architecture stores public traceability data and private identity-sensitive records securely.</p>
+    </article>
+    <article class="card">
+      <h3 class="section-title">Features</h3>
+      <p class="section-text">Farmer dashboards, supply chain tracking, live fraud alerts, immutable block records, and AI risk intelligence.</p>
+    </article>
+    <article class="card">
+      <h3 class="section-title">How It Works</h3>
+      <p class="section-text">Each incoming transaction is scored by AI, validated against expected yield, and anchored as a blockchain entry.</p>
+    </article>
+  </section>
+{% endblock %}

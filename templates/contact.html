@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">Contact</span>
+    <h1 class="section-title">Let's Build Transparent Food Systems</h1>
+    <p class="section-text">
+      For collaboration, pilots, and research partnerships, share your details and we will connect.
+    </p>
+  </section>
+
+  <section class="grid-2">
+    <article class="card">
+      <h3 class="section-title">Contact Form</h3>
+      <form class="contact-form">
+        <input type="text" placeholder="Your Name" />
+        <input type="email" placeholder="Your Email" />
+        <input type="text" placeholder="Organization" />
+        <textarea placeholder="How can we help?"></textarea>
+        <button type="button" class="btn btn-primary">Send Message</button>
+      </form>
+    </article>
+    <article class="card">
+      <h3 class="section-title">Project Footprint</h3>
+      <p class="section-text">
+        Agri-Dual-Ledger bridges on-ground agriculture workflows with data integrity and AI-led risk
+        intelligence for compliance-ready, scalable agri supply chains.
+      </p>
+    </article>
+  </section>
+{% endblock %}

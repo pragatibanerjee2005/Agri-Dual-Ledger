@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agri-Dual-Ledger</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <a class="brand" href="/">Agri<span>DualLedger</span></a>
+      <div class="nav-links">
+        <a href="/" class="{{ 'active' if active_page == 'home' else '' }}">Home</a>
+        <a href="/overview" class="{{ 'active' if active_page == 'overview' else '' }}">Overview</a>
+        <a href="/dashboard" class="{{ 'active' if active_page == 'dashboard' else '' }}">Dashboard</a>
+        <a href="/tracking" class="{{ 'active' if active_page == 'tracking' else '' }}">Tracking</a>
+        <a href="/fraud-insights" class="{{ 'active' if active_page == 'fraud' else '' }}">Fraud AI</a>
+        <a href="/ledger" class="{{ 'active' if active_page == 'ledger' else '' }}">Ledger</a>
+        <a href="/analytics" class="{{ 'active' if active_page == 'analytics' else '' }}">Analytics</a>
+        <a href="/contact" class="{{ 'active' if active_page == 'contact' else '' }}">Contact</a>
+      </div>
+    </nav>
+
+    <main class="container">
+      {% block content %}{% endblock %}
+      <p id="pageStatus" class="section-text"></p>
+    </main>
+
+    <footer>
+      <p>Transparent agricultural supply chains powered by Blockchain + AI</p>
+    </footer>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  </body>
+</html>

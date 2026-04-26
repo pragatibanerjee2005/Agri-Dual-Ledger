@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">AI Fraud Insights</span>
+    <h1 class="section-title">Anomaly Detection Console</h1>
+    <p class="section-text">
+      Yield deviations beyond the configured threshold are flagged for manual validation and immutable
+      audit logging.
+    </p>
+  </section>
+
+  <section class="card table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Year</th>
+          <th>District</th>
+          <th>Actual Yield</th>
+          <th>Predicted Yield</th>
+          <th>Fraud Score</th>
+        </tr>
+      </thead>
+      <tbody id="fraudTableBody"></tbody>
+    </table>
+  </section>
+{% endblock %}

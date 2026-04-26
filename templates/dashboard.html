@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="card">
+    <span class="pill">Farmer / Supplier Dashboard</span>
+    <h1 class="section-title">Operational Command Center</h1>
+    <div class="grid-3">
+      <div class="metric"><h3>Total Records</h3><p id="totalRecords">--</p></div>
+      <div class="metric"><h3>Average Yield</h3><p id="averageYield">--</p></div>
+      <div class="metric"><h3>Fraud Flags</h3><p id="fraudCases">--</p></div>
+    </div>
+  </section>
+
+  <section class="grid-2">
+    <article class="card">
+      <h3 class="section-title">Yield Trend</h3>
+      <canvas id="yieldChart"></canvas>
+    </article>
+    <article class="card">
+      <h3 class="section-title">Fraud Signal Trend</h3>
+      <canvas id="fraudChart"></canvas>
+    </article>
+  </section>
+{% endblock %}
