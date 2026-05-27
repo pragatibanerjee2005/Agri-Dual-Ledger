@@ -4,7 +4,7 @@ A modern AgriTech web platform powered by **Blockchain + AI Fraud Detection** to
 
 ## 🚀 Live Demo
 
-Add your Vercel deployment link here:
+
 `https://your-project-name.vercel.app`
 
 ---
